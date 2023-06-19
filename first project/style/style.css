@@ -1,0 +1,54 @@
+.class5{
+    display: inline-block;
+    width: 775px;
+    height: 180px;
+    margin-left: 75px;
+    margin-right: 10px;
+
+}
+
+@font-face {
+    font-family:myFont;
+    src: url(../style/archyedt-bold-webfont.ttf);
+}
+
+
+p{font-family: myFont;
+   color: #4E6FAE;
+
+}
+a{
+font-family: myFont;
+size: 65px;
+margin-left: 60px;
+color: #4E6FAE;
+display: inline-block;
+font-size: 25px;
+}
+
+
+ol{font-family: myFont; */
+display: inline-block;
+color: #4E6FAE;
+
+}
+h1{background-color:purple; 
+   
+    width: 31px;
+    height: 34px;
+    color: white;
+    font-size: 25px;
+}
+.class1{
+        height: 40px;
+    width:2px;
+    background-color: #5012D5;
+  display: inline-block;
+border: 1px;
+
+}
+
+    
+.class3{
+        display: block;
+    }

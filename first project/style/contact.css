@@ -1,0 +1,46 @@
+
+@font-face {
+    font-family:myFont;
+    src: url(../style/archyedt-bold-webfont.ttf);
+}
+
+a{display: inline-block;
+    font-family: myFont;
+    size: 60px;
+    margin-left: 60px;
+    color: #4E6FAE;
+    margin-bottom: 45px;
+  font-size: 25px;
+font-style: normal;
+}
+.class1{
+    display: inline-block;
+margin-left: 667px;
+margin-bottom: 427px;
+margin-top: 10px;
+}
+.class2{
+    display: inline-block;
+    margin-left: 167px;
+}
+.class3{
+    display: block;
+}
+h1{
+    color: #4E6FAE;
+    size: 25px;
+}
+h2{
+    color: gray;
+    size: 10px;
+}
+.class4{
+    background-color: #E7E7E7;
+    ;
+}
+.class5{
+        height: 40px;
+    width:2px;
+    background-color: #5012D5;
+  display: inline-block;
+border: 1px;

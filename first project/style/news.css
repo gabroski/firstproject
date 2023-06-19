@@ -1,0 +1,68 @@
+@font-face {
+    font-family:myFont;
+    src: url(../style/archyedt-bold-webfont.ttf);
+}
+
+
+
+
+
+a{display: inline-block;
+    font-family: myFont;
+    size: 60px;
+    margin-left: 60px;
+    color: #4E6FAE;
+    margin-bottom: 45px;
+  font-size: 25px;
+font-style: normal;
+}
+  
+p{
+    font-family: myFont;
+    color: #4E6FAE;
+    size: 26px;
+}
+h1{
+    font-family: 'Helvetica Neue LT GEO';
+    font-size: 16px;
+    color: #000000;
+ 
+}
+h2{
+    display: inline-block;
+    width: 335px;
+    height: 95px;
+font-family: 'Helvetica Neue LT GEO';
+font-size: 16px;
+color: #7E8898;
+}
+
+    
+.class2{
+        width: 77px;
+        height: 77px;
+display: inline-block;
+}
+.class1{
+    background-color: #E7E7E7;
+display: inline-block;
+}
+.class3{
+    width: 77px;
+    height: 77px;
+display: inline-block;
+}
+
+.class4{
+        height: 40px;
+    width:2px;
+    background-color: #5012D5;
+  display: inline-block;
+border: 1px;
+}
+.class5{
+    display: block;
+margin-left: 194px;
+margin-top: 91px;
+margin-bottom: 91px;
+}
